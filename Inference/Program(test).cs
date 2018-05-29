@@ -7,7 +7,7 @@ using Emgu.CV;
 using System.IO;
 using LKY;
 
-namespace RunTest
+namespace Inference
 {
     class Program
     {

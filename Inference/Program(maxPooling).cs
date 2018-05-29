@@ -8,7 +8,7 @@ using System.IO;
 using LKY;
 using System.Diagnostics;
 
-namespace RunTest
+namespace Inference
 {
     class Program
     {
