@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeuralRegressionDemo", "NeuralNetwork\NeuralRegressionDemo.csproj", "{792F844B-A828-4505-B1E4-BE7542272C19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeuralRegressionPainDataTraining", "NeuralRegressionPainData\NeuralRegressionPainDataTraining.csproj", "{BEEC838B-1849-49F6-98B3-A2948B259B77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inference", "Inference\Inference.csproj", "{25FE14BF-6C71-4EEF-994C-74A4C97EAFB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{792F844B-A828-4505-B1E4-BE7542272C19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{792F844B-A828-4505-B1E4-BE7542272C19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{792F844B-A828-4505-B1E4-BE7542272C19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{792F844B-A828-4505-B1E4-BE7542272C19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEEC838B-1849-49F6-98B3-A2948B259B77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEEC838B-1849-49F6-98B3-A2948B259B77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEEC838B-1849-49F6-98B3-A2948B259B77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEEC838B-1849-49F6-98B3-A2948B259B77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25FE14BF-6C71-4EEF-994C-74A4C97EAFB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25FE14BF-6C71-4EEF-994C-74A4C97EAFB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25FE14BF-6C71-4EEF-994C-74A4C97EAFB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25FE14BF-6C71-4EEF-994C-74A4C97EAFB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9BA8CF68-0B8B-420C-A6BD-9AC15805A17F}
+	EndGlobalSection
+EndGlobal
