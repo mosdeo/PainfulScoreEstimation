@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2037
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeuralRegressionDemo", "NeuralNetwork\NeuralRegressionDemo.csproj", "{792F844B-A828-4505-B1E4-BE7542272C19}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeuralRegressionDemo", "NeuralRegressionDemo\NeuralRegressionDemo.csproj", "{792F844B-A828-4505-B1E4-BE7542272C19}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeuralRegressionPainDataTraining", "NeuralRegressionPainData\NeuralRegressionPainDataTraining.csproj", "{BEEC838B-1849-49F6-98B3-A2948B259B77}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeuralRegressionPainDataTraining", "NeuralRegressionPainDataTraining\NeuralRegressionPainDataTraining.csproj", "{BEEC838B-1849-49F6-98B3-A2948B259B77}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inference", "Inference\Inference.csproj", "{25FE14BF-6C71-4EEF-994C-74A4C97EAFB1}"
 EndProject
