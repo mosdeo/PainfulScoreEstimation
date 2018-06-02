@@ -3,7 +3,7 @@ using System.Threading.Tasks;
 using Emgu.CV;
 using LKY;
 
-namespace NeuralRegression
+namespace NeuralRegressionDemo
 {
     class NeuralRegressionProgram
     {
