@@ -87,6 +87,8 @@ namespace Inference
             }
         }
 
+
+        // 在攝影機畫面中，給被偵測到的臉部加上框，並且用字串把疼痛指數大小量視覺化
         static void DrawFaceBox(Mat frameFaceBox, System.Drawing.Rectangle faceRect, double PSPI)
         {
             Emgu.CV.Structure.MCvScalar colorOrange = new Emgu.CV.Structure.MCvScalar(51, 150, 255);
