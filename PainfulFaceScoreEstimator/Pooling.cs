@@ -1,8 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using Emgu.CV;
+using System;
 using System.Linq;
-using System.Text;
-using Emgu.CV;
 
 namespace LKY
 {
