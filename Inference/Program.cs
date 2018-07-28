@@ -2,15 +2,22 @@
 using LKY;
 using System;
 using System.Diagnostics;
+using System.Runtime.InteropServices;
 
 namespace Inference
 {
     class Program
     {
+        [DllImport("kernel32.dll")]
+        static extern IntPtr GetConsoleWindow();
+
+        [DllImport("user32.dll")]
+        static extern bool ShowWindow(IntPtr hWnd, int nCmdShow);
+
         static void Main(string[] args)
         {
-            Console.BackgroundColor = ConsoleColor.DarkCyan;
-            Console.ForegroundColor = ConsoleColor.White;
+            // Hide
+            ShowWindow(GetConsoleWindow(), 0);
 
             //初始化類神經網路
             var painfulFaceScoreEstimator = new PainfulFaceScoreEstimator();
