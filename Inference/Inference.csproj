@@ -14,7 +14,7 @@
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <IsWebBootstrapper>false</IsWebBootstrapper>
     <TargetFrameworkProfile />
-    <PublishUrl>C:\Users\mosde\Documents\Visual Studio 2017\Projects\NeuralNetwork\</PublishUrl>
+    <PublishUrl>C:\Users\mosde\Documents\Visual Studio 2017\Projects\PainfulScoreEstimation\</PublishUrl>
     <Install>true</Install>
     <InstallFrom>Disk</InstallFrom>
     <UpdateEnabled>false</UpdateEnabled>
