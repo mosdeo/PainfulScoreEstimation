@@ -63,7 +63,11 @@ namespace Inference
 
                 CvInvoke.Imshow(nameof(RawImg), RawImg);
                 //vw.Write(RawImg);
-                CvInvoke.WaitKey(1);
+
+                if(27 == CvInvoke.WaitKey(1))
+                {
+                    break;
+                }
             }
         }
 
