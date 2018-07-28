@@ -59,8 +59,8 @@ namespace Inference
                 //寫入畫面上的文字訊息
                 String fps = String.Format("FPS={0:0.00}", 1000 / aLoopTime);
                 CvInvoke.PutText(RawImg, fps, new System.Drawing.Point(0, 30), 0, 1, new Emgu.CV.Structure.MCvScalar(51, 150, 255), 1);
-
-                const string strWindowName = "Prkachin and Solomon Pain Intensity (PSPI) Estimator";
+                
+                const string strWindowName = "Prkachin and Solomon Pain Intensity (PSPI) Estimator by LKY (Press ESC to Exit)";
                 CvInvoke.Imshow(strWindowName, RawImg);
 
                 if(27 == CvInvoke.WaitKey(1))
