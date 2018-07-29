@@ -18,6 +18,9 @@
 - Microsoft Visual Studio Community 2017 Version 15.6.6
 - Microsoft .NET Framework Version 4.7.03056
 
+## Executable/Binaries
+- [Release of the repo](https://github.com/mosdeo/PainfulScoreEstimation/releases)
+
 ## Runtime dependence
 - A Camera
-- Microsoft .NET Framework Version 4.6.1
+- Microsoft .NET Framework Version 4.6.1 above
