@@ -20,7 +20,6 @@
 
 ## Executable/Binaries
 - [Release of the repo](https://github.com/mosdeo/PainfulScoreEstimation/releases)
-
-## Runtime dependence
-- A Camera
-- Microsoft .NET Framework Version 4.6.1 above
+- Runtime dependence
+	- A Camera
+	- Microsoft .NET Framework Version 4.6.1 above
