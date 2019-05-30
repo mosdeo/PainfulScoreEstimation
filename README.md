@@ -2,7 +2,7 @@
 
 ## Demo video
 
-![](doc\IMG_4293.JPG)
+![Weight Lifting & Childbirth](doc/IMG_4293.JPG)
 
 - Weight Lifting https://youtu.be/B5e_udgH9D8
 - Childbirth https://youtu.be/sonvJNeTp9Q
