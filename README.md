@@ -105,8 +105,8 @@ body{
 	</div>
 </div>
 
-- Childbirth https://youtu.be/sonvJNeTp9Q
 - Weight Lifting https://youtu.be/B5e_udgH9D8
+- Childbirth https://youtu.be/sonvJNeTp9Q
 - Self Test https://youtu.be/hP4KmjBfKqI
 
 ## Estimation VS Ground Truth in a sample
